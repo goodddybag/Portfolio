@@ -1,0 +1,93 @@
+.Background_image{
+    background-image:url(/IMG/Background.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 100vh;
+    margin:0;
+    padding:0;
+    background-color: black;
+  }
+  #Home{
+    font-family:'Courier New', Courier, monospace;
+  text-align: left;
+    font-size:6mm;
+    
+    font-weight: 200;
+  
+    
+    color: white;
+  }
+
+  #Hom{
+    font-family:'Times New Roman', Times, serif;
+  text-align: left;
+    font-size:6mm;
+    margin-top: 0;
+    font-weight: 200;
+    padding:0;
+    margin-bottom:0;
+    color: white;
+  }
+  .image{
+    text-align: right;
+  }
+  {
+    color:white;
+    font-family: Arial;
+    text-align:center;
+    font-weight:800px;
+  }
+  .grid2 a{
+    position:above;
+    width:100;
+    float:right;
+    color:white;
+
+    text-align: center;
+  margin: 20px;
+  overflow:hidden;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.hd{
+    position:above;
+    width:300;
+    float:left;
+    color: bisque;
+
+    margin:20px;
+    overflow:hidden;
+    font-size: 30px;
+    text-decoration: none;
+  } 
+
+  .me{ 
+  color:white;
+  
+  text-align:center;
+  font-weight:800px;
+  /*width: 500px;*/
+  text-align: start;
+}
+
+#nav {
+  position: above;
+  display: flex;
+
+}
+.image{
+display: flex;
+flex-direction: row-reverse;
+
+}
+.link{
+ text-align: left;
+ text-decoration: none;
+ color: blue;
+ 
+}
+.Hire{
+  color: white;
+}
